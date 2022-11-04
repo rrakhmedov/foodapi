@@ -13,7 +13,7 @@ from fastapi import UploadFile
 
 resnet = model.resnet50(pretrained=False)
 resnet.fc = nn.Linear(2048,251)
-resnet.load_state_dict(torch.load(r'C:\Users\ramil\Desktop\Python_project1\image classification\model_20220920_080539_9'))
+resnet.load_state_dict(torch.load('model_torchfile'))
 resnet.eval()
 
 transform_test = transforms.Compose([    transforms.ToPILImage(),
