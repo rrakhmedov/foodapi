@@ -13,7 +13,7 @@ from fastapi import UploadFile
 
 resnet = model.resnet50(pretrained=False)
 resnet.fc = nn.Linear(2048,251)
-resnet.load_state_dict(torch.load('model_torchfile'))
+resnet.load_state_dict(torch.load('model_torchfile', map_location=torch.device('cpu')))
 resnet.eval()
 
 transform_test = transforms.Compose([    transforms.ToPILImage(),
@@ -39,4 +39,4 @@ async def predict_image(file: UploadFile = File(...)):
 
 
 if __name__ == "__main__":
-    uvicorn.run(app, port = 8080, host = '127.0.0.1')
+    uvicorn.run(app, port = 9314, host = '0.0.0.0')
