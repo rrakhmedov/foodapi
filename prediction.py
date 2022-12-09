@@ -5,7 +5,7 @@ import torch
 import torch.nn as nn
 import numpy as np
 def full_pipe(image):
-    image_check = io.imread(image)
+    image_check = io.imread(image)[:,:,:3]
     transform_test = transforms.Compose([transforms.ToPILImage(),
                                          transforms.Resize(size=(224, 224)),
                                          transforms.ToTensor(),
@@ -17,7 +17,7 @@ def full_pipe(image):
     resnet = model.resnet50(pretrained=False)
     resnet.fc = nn.Linear(2048, 251)
     resnet.load_state_dict(
-        torch.load(r'C:\Users\ramil\Desktop\Python_project1\image classification\model_20220920_080539_9'))
+        torch.load('model_torchfile', map_location=torch.device('cpu')))
     resnet.eval()
 
     result = resnet(test.unsqueeze(dim=0))

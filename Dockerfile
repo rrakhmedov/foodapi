@@ -10,4 +10,4 @@ COPY requirements.txt /foodapi/requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 9314
 
-CMD ["python3", "main.py"]
+CMD ["python3", "main.py", "--host=0.0.0.0", "--reload"]
