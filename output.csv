@@ -1,0 +1,252 @@
+productId;description;category;energy;beverage;predictid
+2599;Applesauce Cake;Cakes and pies;156.3;false;237
+2600;Baby Back Rib;Pork;291;false;206
+2601;Bacon and Eggs;Bacon;337;false;118
+2602;Baked Alaska;Ice cream and frozen dairy desserts;210;false;173
+2603;Barbecued Wing;Poultry mixed dishes;328;false;215
+2447;Tiramisu;Cakes and pies;354;false;5
+2393;Taco or tostada with chicken;Burritos and tacos;255;false;6
+2604;Beef Bourguignonne;Beef, excludes ground;179.5;false;241
+827;Dumpling, meat-filled;Turnovers and other grain-based items;358;false;8
+2605;Beef Carpaccio;Beef, excludes ground;157;false;114
+1408;Knish, cheese;Turnovers and other grain-based items;342;false;10
+2606;Beef Tartare;Beef, excludes ground;230;false;18
+724;Couscous, plain, cooked;Pasta, noodles, cooked grains;111;false;12
+2607;Beet Salad;Salads;86;false;82
+2312;Stuffed cabbage rolls with beef and rice;Meat mixed dishes;112;false;14
+2171;Seaweed soup;Soups;35;false;15
+90;Beef chow mein or chop suey with noodles;Fried rice and lo/chow mein;129;false;16
+2608;Beignet;Doughnuts, sweet rolls, pastries;189.8;false;1
+2609;Blancmange;Pudding;203.3;false;149
+2610;Bubble and Squeak;Mixed Dishes;176;false;58
+2611;Buffalo Wing;Poultry mixed dishes;295.2;false;249
+287;Cake or cupcake, peanut butter;Cakes and pies;414;false;21
+2612;Cannoli;Doughnuts, sweet rolls, pastries;344;false;19
+1737;Pad Thai;Fried rice and lo/chow mein;154;false;23
+2613;Caprese Salad;Salads;111.9;false;60
+2614;Carbonnade Flamande;Meat mixed dishes;139.7;false;231
+2615;Chicken Marengo;Poultry mixed dishes;168.6;false;222
+147;Bibimbap, Korean;Rice mixed dishes;80;false;27
+480;Chicken kiev;Poultry mixed dishes;277;false;28
+1858;Pie, apple, fried pie;Cakes and pies;316;false;29
+2616;Chicken Provencale;Poultry mixed dishes;172;false;228
+2617;Chiffon Cake;Cakes and pies;173.5;false;219
+90;Beef chow mein or chop suey with noodles;Fried rice and lo/chow mein;129;false;32
+2618;Chocolate Mousse;Doughnuts, sweet rolls, pastries;304.3;false;172
+842;Egg omelet or scrambled egg;Eggs and omelets;184;false;34
+2619;Club Sandwich;Other sandwiches (single code);259;false;51
+2620;Cockle Food;Shellfish;86;false;3
+2352;Sushi;Egg rolls, dumplings, sushi;93;false;37
+2621;Coffee Cake;Cakes and pies;165.1;false;119
+4;Air filled fritter or fried puff;Doughnuts, sweet rolls, pastries;435;false;39
+1644;Nachos with cheese;Nachos;343;false;40
+118;Beef stroganoff;Meat mixed dishes;150;false;41
+121;Beef wellington;Meat mixed dishes;368;false;42
+2622;Compote;Soft drinks;43.6;true;90
+2623;Confit;Poultry mixed dishes;334.5;false;175
+750;Crayfish, boiled or steamed;Shellfish;81;false;45
+2624;Coq Au Vin;Poultry mixed dishes;120.1;false;77
+2;Adobo, with noodles;Poultry mixed dishes;172;false;47
+2625;Coquilles Saint Jacques;Seafood mixed dishes;69;false;212
+864;Egg, deviled;Eggs and omelets;198;false;49
+2626;Cottage Pie;Cakes and pies;383.5;false;111
+2627;Croque Madame;Other sandwiches (single code);236.4;false;112
+305;Cake, carrot, diet;Cakes and pies;412;false;52
+911;Falafel;Bean, pea, legume dishes;509;false;53
+2628;Croquette;Vegetable dishes;213;false;11
+2629;Cruller;Doughnuts, sweet rolls, pastries;295;false;2
+867;Egg, whole, boiled or poached ;Eggs and omelets;143;false;56
+1047;Gnocchi, cheese;Pasta mixed dishes, excludes macaroni and cheese;178;false;57
+2630;Dolmas;Meat mixed dishes;117;false;211
+848;Egg roll, meatless;Egg rolls, dumplings, sushi;269;false;59
+2631;Eccles Cake;Cakes and pies;460.3;false;247
+2137;Sauerkraut;Olives, pickles, pickled vegetables;39;false;61
+761;Creme brulee;Pudding;110;false;62
+2632;Entrecote;Beef, excludes ground;203;false;230
+2633;Escargot;Seafood mixed dishes;380;false;50
+2150;Scallops, coated, fried;Shellfish;211;false;65
+2634;Farfalle;Pasta, noodles, cooked grains;350;false;54
+2635;Fettuccine;Pasta, noodles, cooked grains;352;false;142
+306;Cake, chocolate, with icing, diet;Cakes and pies;409;false;68
+2636;Filet Mignon;Beef, excludes ground;172;false;163
+2637;Fish and Chips;Seafood mixed dishes;185.7;false;97
+2638;Foie Gras;Poultry mixed dishes;192;false;20
+27;Applesauce, regular;Apples;68;false;72
+54;Baklava;Cakes and pies;413;false;73
+2107;Salisbury steak with gravy;Meat mixed dishes;149;false;74
+2639;Fondue;Cheese;170;false;64
+832;Edamame, cooked;Beans, peas, legumes;140;false;76
+2640;French Toast;Yeast breads;191.8;false;139
+2410;Tamale with meat;Other Mexican mixed dishes;215;false;78
+1518;Macaroni or noodles with cheese;Macaroni and cheese;222;false;79
+2641;Fried Calamari;Shellfish;289.4;false;133
+1024;Garlic bread;Yeast breads;349;false;81
+2642;Frittata;Eggs and omelets;160.6;false;35
+2643;Fruitcake;Cakes and pies;414;false;31
+2644;Galantine;Meat mixed dishes;230;false;125
+1487;Liver paste or pate, chicken;Liver and organ meats;201;false;85
+1752;Pancakes;Pancakes, waffles, French toast;279;false;86
+517;Chicken or turkey tetrazzini;Poultry mixed dishes;118;false;87
+979;Fried onion rings;Fried vegetables;350;false;88
+2645;Gyoza;Meat mixed dishes;277;false;130
+2646;Haggis;Meat mixed dishes;204;false;33
+1501;Lobster, cooked;Shellfish;88;false;91
+462;Chicken curry;Poultry mixed dishes;106;false;92
+533;Chicken wing;Chicken, whole pieces;257;false;93
+502;Chicken or turkey caesar garden salad, chicken and/or turkey, lettuce, tomato, cheese, no dressing;Poultry mixed dishes;60;false;94
+2647;Ham and Eggs;Eggs and omelets;216.5;false;176
+1179;Hummus, plain;Dips, gravies, other sauces;260;false;96
+2648;Huitre;Shellfish;72;false;218
+1440;Lasagna with meat;Pasta mixed dishes, excludes macaroni and cheese;139;false;98
+2649;Jambalaya;Mixed Dishes;181.6;false;66
+108;Beef sloppy joe, no bun;Meat mixed dishes;137;false;100
+279;Cake or cupcake, gingerbread;Cakes and pies;308;false;101
+725;Crab cake;Seafood mixed dishes;205;false;102
+2650;Kabob;Meat mixed dishes;129;false;145
+2651;Kedgeree;Seafood mixed dishes;167;false;80
+1100;Guacamole;Dips, gravies, other sauces;155;false;105
+1134;Ham sandwich, with spread;Other sandwiches (single code);216;false;106
+789;Crumpet;Biscuits, muffins, quick breads;227;false;107
+2398;Taco or tostada with meat;Burritos and tacos;247;false;108
+316;Cake, shortcake, biscuit type, with fruit;Cakes and pies;216;false;109
+574;Clam chowder, Manhattan;Soups;56;false;110
+2652;Limpet Food;Seafood mixed dishes;86;false;189
+2653;Linguine;Shellfish;359;false;75
+1703;Onion soup, French;Soups;153;false;113
+2654;Lobster Roll Sandwich;Other sandwiches (single code);510;false;205
+322;Cake, torte;Cakes and pies;284;false;115
+2655;Lobster Thermidor;Shellfish;166;false;216
+734;Crab, cooked;Shellfish;82;false;117
+2656;Lutefisk;Seafood mixed dishes;50;false;99
+2657;Macaron;Doughnuts, sweet rolls, pastries;299.7;false;0
+797;Custard;Pudding;95;false;120
+2658;Matzo Ball;Mixed Dishes;45;false;245
+1960;Pork chop;Pork;211;false;122
+981;Fried rice, Puerto Rican style;Rice mixed dishes;119;false;123
+867;Egg, whole, boiled or poached ;Eggs and omelets;143;false;124
+2659;Moo Goo Gai Pan;Mixed Dishes;113;false;248
+87;Beef brisket, cooked, lean and fat eaten;Beef, excludes ground;289;false;126
+2047;Reuben sandwich, corned beef sandwich with sauerkraut and cheese, with spread;Other sandwiches (single code);285;false;127
+2660;Mostaccioli;Doughnuts, sweet rolls, pastries;353;false;243
+15;Ambrosia;Other fruits and fruit salads;70;false;129
+2661;Moussaka;Mixed Dishes;102.5;false;7
+98;Beef jerky;Cold cuts and cured meats;410;false;131
+2043;Ravioli, no sauce;Pasta mixed dishes, excludes macaroni and cheese;184;false;132
+2662;Orzo;Pasta, noodles, cooked grains;356;false;38
+2663;Osso Buco;Meat mixed dishes;284;false;22
+1604;Miso;Soy-based condiments;198;false;135
+994;Frozen yogurt;Ice cream and frozen dairy desserts;127;false;136
+2664;Panna Cotta;Pudding;160;false;138
+2665;Pavlova;Cakes and pies;470;false;63
+2666;Peach Melba;Ice cream and frozen dairy desserts;104.2;false;235
+882;Enchilada, no sauce;Other Mexican mixed dishes;142;false;140
+382;Ceviche;Seafood mixed dishes;62;false;141
+2667;Peking Duck;Poultry mixed dishes;639;false;104
+543;Chili con carne;Meat mixed dishes;97;false;143
+947;Flan;Pudding;174;false;144
+2668;Penne;Pasta, noodles, cooked grains;344;false;167
+2669;Pilaf;Meat mixed dishes;150.7;false;210
+872;Eggplant and meat casserole;Meat mixed dishes;96;false;147
+1741;Paella;Rice mixed dishes;168;false;148
+2670;Pirogi;Cakes and pies;311.2;false;234
+225;Bruschetta;Other sandwiches (single code);170;false;150
+2671;Poi;Mixed Dishes;112;false;116
+2112;Salmon, baked or broiled, made with butter;Fish;183;false;152
+1996;Potato, french fries;French fries and other fried white potatoes;224;false;153
+2672;Porridge;Grits and other cooked cereals;83.7;false;13
+570;Churros;Doughnuts, sweet rolls, pastries;419;false;155
+812;Doughnut;Doughnuts, sweet rolls, pastries;426;false;156
+1563;Meat loaf made with beef;Meat mixed dishes;200;false;157
+1576;Meatballs, Puerto Rican style;Meat mixed dishes;240;false;158
+2155;Scrapple, cooked;Sausages;227;false;159
+2306;Strudel, apple;Cakes and pies;274;false;160
+278;Cake or cupcake, coconut, with icing or filling;Cakes and pies;356;false;161
+282;Cake or cupcake, marble, with icing or filling;Cakes and pies;390;false;162
+2673;Potpie;Cakes and pies;144.1;false;69
+1144;Hamburger;Burgers (single code);288;false;164
+842;Egg omelet or scrambled egg;Eggs and omelets;184;false;165
+2674;Pound Cake;Cakes and pies;389;false;203
+2675;Poutine;Mixed Dishes;220;false;24
+858;Egg, Benedict;Eggs and omelets;283;false;168
+2007;Pudding, bread;Pudding;155;false;169
+2676;Prime Rib;Beef, excludes ground;110;false;187
+2677;Profiterole;Doughnuts, sweet rolls, pastries;298;false;220
+2678;Pulled Pork Sandwich;Other sandwiches (single code);365;false;26
+2679;Ramen;Mixed Dishes;76;false;25
+960;Frankfurter or hot dog;Frankfurters;331;false;174
+2680;Red Velvet Cake;Cakes and pies;361;false;89
+2681;Rigatoni;Pasta, noodles, cooked grains;359;false;17
+150;Biryani with chicken;Rice mixed dishes;103;false;177
+1078;Greek Salad, no dressing;Vegetable dishes;42;false;178
+1177;Huevos rancheros;Eggs and omelets;119;false;179
+2682;Risotto;Mixed Dishes;45.4;false;30
+2321;Stuffed pepper, with meat;Vegetable dishes;195;false;181
+330;Cannelloni, cheese- and spinach-filled, no sauce;Pasta mixed dishes, excludes macaroni and cheese;155;false;182
+1922;Pizza with pepperoni;Pizza;282;false;183
+2683;Rissole;Mixed Dishes;227.4;false;242
+2021;Quesadilla with chicken;Other Mexican mixed dishes;325;false;185
+1173;Hot and sour soup;Soups;39;false;186
+2684;Rock Cake;Cakes and pies;151;false;239
+438;Cheesecake;Cakes and pies;321;false;188
+2685;Roulade;Cakes and pies;107;false;199
+2686;Rugulah;Doughnuts, sweet rolls, pastries;350;false;190
+1638;Mussels, cooked;Shellfish;171;false;191
+1543;Manicotti, cheese-filled, no sauce;Pasta mixed dishes, excludes macaroni and cheese;206;false;192
+1197;Ice cream;Ice cream and frozen dairy desserts;221;false;193
+2541;Waffle;Pancakes, waffles, French toast;309;false;194
+1731;Oysters, raw;Shellfish;51;false;195
+842;Egg omelet or scrambled egg;Eggs and omelets;184;false;196
+579;Clams, cooked;Shellfish;135;false;197
+241;Burrito with meat;Burritos and tacos;242;false;198
+2687;Samosa;Mixed Dishes;300;false;238
+1492;Lobster bisque;Soups;52;false;200
+1091;Grilled cheese sandwich;Cheese sandwiches (single code);331;false;201
+1108;Gyro sandwich (pita bread, beef, lamb, onion, condiments), with tomato and spread;Other sandwiches (single code);167;false;202
+2688;Sashimi;Fish;63;false;4
+1851;Pho;Soups;88;false;204
+2689;Sauerbraten;Mixed Dishes;27;false;9
+2690;Sausage Roll;Mixed Dishes;280;false;103
+1694;Olive tapenade;Olives, pickles, pickled vegetables;278;false;207
+1829;Pepper steak;Meat mixed dishes;144;false;208
+2691;Savarin;Doughnuts, sweet rolls, pastries;175.3;false;184
+2692;Scampi;Shellfish;80;false;44
+2693;Schnitzel;Mixed Dishes;456.2;false;36
+2694;Scotch Egg;Eggs and omelets;184;false;128
+2695;Shirred Egg;Eggs and omelets;60;false;233
+2696;Shrimp and Grits;Seafood mixed dishes;105.8;false;214
+2697;Souffle;Doughnuts, sweet rolls, pastries;203.2;false;154
+2698;Spaghetti Bolognese;Pasta, noodles, cooked grains;71;false;46
+2699;Spaghetti Carbonara;Pasta, noodles, cooked grains;350.8;false;70
+2700;Sponge Cake;Cakes and pies;317.2;false;134
+2701;Spring Roll;Mixed Dishes;125;false;146
+2702;Steak Au Poivre;Beef, excludes ground;260;false;43
+2703;Steak Tartare;Beef, excludes ground;146.7;false;217
+2704;Streusel;Doughnuts, sweet rolls, pastries;520.3;false;83
+2705;Succotash;Mixed Dishes;115;false;48
+2706;Sukiyaki;Meat mixed dishes;286;false;95
+298;Cake, Boston cream pie;Cakes and pies;252;false;225
+935;Fish stick, patty or nugget from fast food;Fish;277;false;226
+614;Coffee cake, crumb or quick-bread type;Doughnuts, sweet rolls, pastries;381;false;227
+2707;Syllabub;Doughnuts, sweet rolls, pastries;424;false;71
+2708;Tagliatelle;Pasta, noodles, cooked grains;356;false;121
+2709;Takoyaki;Seafood mixed dishes;263;false;180
+2710;Tamale Pie;Cakes and pies;127;false;170
+47;Bacon sandwich, with spread;Other sandwiches (single code);359;false;232
+2711;Tempura;Seafood mixed dishes;241;false;224
+2712;Tenderloin;Beef, excludes ground;146;false;67
+2713;Terrine;Mixed Dishes;261;false;171
+310;Cake, pineapple, upside down;Cakes and pies;328;false;236
+2714;Toad In The Hole;Mixed Dishes;134.1;false;55
+2715;Tortellini;Biscuits, muffins, quick breads;156;false;221
+2716;Tuna Tartare;Seafood mixed dishes;120.3;false;151
+1976;Pork, spareribs, barbecued, with sauce;Pork;343;false;240
+2717;Veal Cordon Bleu;Beef, excludes ground;211;false;166
+2718;Vermicelli;Pasta, noodles, cooked grains;350;false;213
+2719;Victoria Sandwich;Other sandwiches (single code);280;false;84
+1858;Pie, apple, fried pie;Cakes and pies;316;false;244
+2720;Vol Au Vent;Mixed Dishes;435;false;223
+503;Chicken or turkey cordon bleu;Poultry mixed dishes;210;false;246
+2721;Welsh Rarebit;Biscuits, muffins, quick breads;376;false;229
+2722;Wonton;Mixed Dishes;176;false;209
+2723;Ziti;Pasta, noodles, cooked grains;209.3;false;137
+2326;Stuffed tomato, with rice and meat;Vegetable dishes;99;false;250

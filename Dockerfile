@@ -5,6 +5,7 @@ WORKDIR /foodapi
 COPY main.py /foodapi/main.py
 COPY prediction.py /foodapi/prediction.py
 COPY model_torchfile /foodapi/model_torchfile
+COPY output.csv /foodapi/output.csv
 COPY requirements.txt /foodapi/requirements.txt
 
 RUN pip install --no-cache-dir -r requirements.txt

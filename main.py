@@ -1,6 +1,7 @@
 from fastapi import FastAPI, Form, Request
 from typing import Union
 import uvicorn
+import pandas as pd
 
 import torch
 from torchvision import datasets, transforms
@@ -26,6 +27,7 @@ transform_test = transforms.Compose([    transforms.ToPILImage(),
 
 app = FastAPI()
 
+df_tr = pd.read_csv(r'output.csv',sep=';')
 
 @app.get('/index')
 def hello_world():
@@ -34,9 +36,10 @@ def hello_world():
 
 @app.post('/api/predict')
 async def predict_image(file: UploadFile = File(...)):
-    image = full_pipe(file.file)
-
-    return image
+    image = full_pipe(file.file, resnet)
+    print(image)
+    # print( df_tr[df_tr['productId'] ==image[0][0]])
+    return df_tr[df_tr['predictid'].isin(image[0])].iloc[:,:5].to_dict(orient="records")
 
 
 

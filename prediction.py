@@ -4,7 +4,10 @@ from torchvision import models as model
 import torch
 import torch.nn as nn
 import numpy as np
-def full_pipe(image):
+
+
+
+def full_pipe(image, model):
     image_check = io.imread(image)[:,:,:3]
     transform_test = transforms.Compose([transforms.ToPILImage(),
                                          transforms.Resize(size=(224, 224)),
@@ -14,14 +17,10 @@ def full_pipe(image):
     test = transform_test(image_check)
     test.unsqueeze(dim=0).shape
 
-    resnet = model.resnet50(pretrained=False)
-    resnet.fc = nn.Linear(2048, 251)
-    resnet.load_state_dict(
-        torch.load('model_torchfile', map_location=torch.device('cpu')))
-    resnet.eval()
 
-    result = resnet(test.unsqueeze(dim=0))
-    _, result = torch.topk(result, 1)
+
+    result = model(test.unsqueeze(dim=0))
+    _, result = torch.topk(result, 3)
 
     return result.tolist()
 
